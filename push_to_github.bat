@@ -3,7 +3,7 @@ cd /d "%~dp0"
 echo ========================================================
 echo   Pushing All Complete Website Files to GitHub
 echo ========================================================
-echo Repo: https://github.com/ibrahimbicom-droid/Don-t-Splash-Script.git
+echo Repo: https://github.com/ibrahimbicom-droid/dont-splash-script-roblox
 echo.
 git branch -M main
 git push -u origin main --force
