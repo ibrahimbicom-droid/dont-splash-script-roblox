@@ -8,8 +8,8 @@
 const SITE_CONFIG = {
   name: "Don't Splash Script",
   shortName: "DontSplashScript",
-  domain: "dontsplashscript.com", // Replace with your live production domain
-  baseUrl: "https://dontsplashscript.com",
+  domain: "dont-splash-script-roblox.vercel.app", // Replace with your live production domain
+  baseUrl: "https://dont-splash-script-roblox.vercel.app/",
   tagline: "Educational Roblox Studio Lua Scripts, Game Guides & Community Resources for DONT SPLASH",
   description: "Explore useful DONT SPLASH script information, game guides, features, and community resources for Roblox players. Verified Lua snippets and beginner-friendly guides.",
   contactEmail: "support@dontsplashscript.com", // Configurable contact email address
